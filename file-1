@@ -1,1 +1,4 @@
-Hello there!!
+#include<studio.h>
+void main {
+	printf("Hello World")
+}
